@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>Grapefruit</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jorgeplaza.grapefruit</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Grapefruit</string>
+	<key>CFBundleDisplayName</key>
+	<string>Grapefruit</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>26.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Grapefruit opens Terminal for the Terminal action and uses Microsoft Office or Pages for slide, spreadsheet and Pages conversions.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>Grapefruit saves converted files next to the originals on your Desktop.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>Grapefruit saves converted files next to the originals in Documents.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Grapefruit saves converted files next to the originals in Downloads.</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>Grapefruit saves converted files next to the originals on external drives.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>Grapefruit saves converted files next to the originals on network drives.</string>
+</dict>
+</plist>
